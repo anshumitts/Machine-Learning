@@ -12,4 +12,4 @@ Interactive Machine learning tutorials for education purposes.
 
 This is not a commercial softwware nor it is meant for any research endeavour. This is only meant for education.
 
-Note: Documentation for evey algorithm is present in each subfolder
+Note: Documentation for each algorithm is present in each subfolder
